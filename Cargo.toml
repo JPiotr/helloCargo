@@ -6,4 +6,6 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+cryptoapis = "1.7.0"
+rocket = "0.4.11"
 sysinfo = "0.28.4"
